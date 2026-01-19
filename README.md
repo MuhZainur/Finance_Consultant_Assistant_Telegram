@@ -13,6 +13,8 @@ It leverages **DeepSeek R1 (via OpenRouter)** for reasoning and online news fetc
 
 ## 🏗️ The "Tri-Squad" Architecture
 
+![AlphaSwarm Architecture Flowchart](assets/architecture_flowchart.jpg)
+
 The system operates in a strictly orchestrated sequence to maximize efficiency and avoid API rate limits:
 
 ### 1. Wall Street Squad 🦅
